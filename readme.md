@@ -7,3 +7,11 @@ npm install
 ```
 
 ## Run
+```bash
+npm start
+```
+
+## test
+```bash
+npm test
+```
